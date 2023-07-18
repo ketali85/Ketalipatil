@@ -1,6 +1,4 @@
-###<h1> Hi ,👋  I am ketali Patil </h1>
-
-:
+<h1> Hi ,👋  I am ketali Patil </h1>
 
 - 🔭 I’m currently working as  ...<b>junior data analyst</b>
 - 🌱 I’m currently learning ...<b> Data science and Machine Learning </b>
