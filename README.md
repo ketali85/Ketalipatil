@@ -1,7 +1,6 @@
 ###<h1> Hi ,👋  I am ketali Patil </h1>
 
-
-Here are some ideas to get you started:
+:
 
 - 🔭 I’m currently working as  ...<b>junior data analyst</b>
 - 🌱 I’m currently learning ...<b> Data science and Machine Learning </b>
